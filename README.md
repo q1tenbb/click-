@@ -1,3 +1,2 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=4998&pause=1000&color=6E5044C0&width=500&lines=!+*+Feel+free+to+int+and+c%2Bh!+%3E_%3C;-+w2i+%3C3)](https://git.io/typing-svg)
-# <img src="{https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white}" /> <img src="{https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white}" /> <img src="{https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white}" />
 # <img width="638" height="710" alt="image" src="https://github.com/user-attachments/assets/cc305e3e-2d2d-4be6-9728-3367da816f0e" />
